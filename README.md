@@ -1,2 +1,5 @@
-# web-231
-WEB231-M381 Enterprise JavaScript I (2247-DD)
+# WEB 231 Enterprise JavaScript I
+
+## Contributors
+* Richard Krasso
+* Scott Green
